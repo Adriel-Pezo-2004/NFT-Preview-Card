@@ -1,0 +1,40 @@
+.footer-card {
+    display: grid;
+    grid-template-columns:  0.75fr  0.25fr;
+    font-size: 1.4rem;
+}
+
+.container h2 {
+    color: var(--white);
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+
+.container #p-uno {
+    color: var(--soft-blue);
+    font-weight: 300;
+    font-size: 1.3rem;
+    line-height: 2.4rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.info .img-person {
+    width: 25px;
+    height: 25px;
+    margin-right: 6px;
+}
+
+.info p {
+    letter-spacing: 0.3px;
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+}
+
+.info #white {
+    letter-spacing: 0.3px;
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+    color: var(--white);
+    font-weight:600;
+}
